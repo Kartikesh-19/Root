@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:  sans-serif;
+}
+.container{
+    height: 80vh;
+    width: 70%;
+    background-image:linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.6)),url(txt.jpg);
+    background-position: center;
+    background-size:contain ;
+    overflow-x: hidden;
+    position:relative;
+
+
+}
+
+#edit{
+    visibility: visible;
+}
+
+#tbl{
+    color: rgb(0, 9, 128);
+    background-color: ivory;
+}
+#table{
+    background-color: lavenderblush;
+}
+#lg{
+    float: right;
+}
